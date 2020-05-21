@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.d809746f.chunk.css",
+    "main.js": "/port/static/js/main.b1f2a7cd.chunk.js",
+    "main.js.map": "/port/static/js/main.b1f2a7cd.chunk.js.map",
+    "runtime-main.js": "/port/static/js/runtime-main.dd51b5be.js",
+    "runtime-main.js.map": "/port/static/js/runtime-main.dd51b5be.js.map",
+    "static/js/2.5f9e7567.chunk.js": "/port/static/js/2.5f9e7567.chunk.js",
+    "static/js/2.5f9e7567.chunk.js.map": "/port/static/js/2.5f9e7567.chunk.js.map",
+    "index.html": "/port/index.html",
+    "precache-manifest.c9ad7439d295d566a130950fd974931e.js": "/port/precache-manifest.c9ad7439d295d566a130950fd974931e.js",
+    "service-worker.js": "/port/service-worker.js",
+    "static/css/main.d809746f.chunk.css.map": "/port/static/css/main.d809746f.chunk.css.map",
+    "static/js/2.5f9e7567.chunk.js.LICENSE.txt": "/port/static/js/2.5f9e7567.chunk.js.LICENSE.txt",
+    "static/media/Intro.css": "/port/static/media/avatar.11a1de5d.png",
+    "static/media/hotel.png": "/port/static/media/hotel.f92e4ea9.png",
+    "static/media/image.png": "/port/static/media/image.36367b81.png",
+    "static/media/logo.svg": "/port/static/media/logo.5d5d9eef.svg",
+    "static/media/movie.png": "/port/static/media/movie.1f91d0a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd51b5be.js",
+    "static/js/2.5f9e7567.chunk.js",
+    "static/css/main.d809746f.chunk.css",
+    "static/js/main.b1f2a7cd.chunk.js"
+  ]
+}
